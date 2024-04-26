@@ -33,4 +33,4 @@ Open source data from instacart was used throughout this analysis as well as a f
 ## Tools
 
 Python was used to perform data wrangling, cleaning, subsetting, derivation of new variables, and to create meaningful visualizations. 
-Python libraries were used such as pandas, numpy, os, matplotlib.pyplot, seaborn, scipy 
+Python libraries were used such as pandas, numpy, os, matplotlib.pyplot, seaborn, and scipy 
