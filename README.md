@@ -26,7 +26,7 @@ Instacart is an online grocery store that operated through an app. They are cons
 
 ## Data
 
-Open source data from instacart was used throughout this analysis as well as a fabricated customers dataset created by CareerFoundry for the purposes of this project.
+Open source data from Instacart was used throughout this analysis as well as a fabricated customers dataset created by CareerFoundry for the purposes of this project.
 
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
 
