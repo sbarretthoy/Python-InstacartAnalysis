@@ -34,3 +34,10 @@ Open source data from instacart was used throughout this analysis as well as a f
 
 Python was used to perform data wrangling, cleaning, subsetting, derivation of new variables, and to create meaningful visualizations. 
 Python libraries were used such as pandas, numpy, os, matplotlib.pyplot, seaborn, and scipy 
+
+## Project Outline
+
+1. **01 Project Management** includes the Project brief provided for this project
+2. **03 Scripts** includes the Python code
+3. **04 Analysis/Visualizations** includes the visualizations created
+4. **05 Sent to Client** includes the final deliverable created for stakeholders
